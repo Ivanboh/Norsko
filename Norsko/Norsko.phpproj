@@ -19,10 +19,35 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Conect.php" />
+    <Compile Include="feedback.php" />
+    <Compile Include="footer.php" />
+    <Compile Include="header.php" />
     <Compile Include="index.php" />
+    <Compile Include="predloha.php" />
+    <Compile Include="stranka1.php" />
+    <Compile Include="stranka2.php" />
+    <Compile Include="stranka3.php" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="img\" />
     <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\0.1.JPG" />
+    <Content Include="img\1.1.JPG" />
+    <Content Include="img\1.2.JPG" />
+    <Content Include="img\1.3.JPG" />
+    <Content Include="img\1.4.jpg" />
+    <Content Include="img\2.1.jpg" />
+    <Content Include="img\2.2.jpg" />
+    <Content Include="img\2.3.JPG" />
+    <Content Include="img\3.1.jpg" />
+    <Content Include="img\3.2.JPG" />
+    <Content Include="img\4.2.JPG" />
+    <Content Include="img\4.3.JPG" />
+    <Content Include="img\4.4.jpg" />
+    <Content Include="style.css" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\DEVSENSE\PHP Tools\VS$(VisualStudioVersion)\Devsense.PHP.MsWebApplication.targets" />
   <!-- Specify pre- and post-build commands in the BeforeBuild and 
