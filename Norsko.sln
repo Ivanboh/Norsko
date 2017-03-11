@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Norsko", "Norsko\Norsko.phpproj", "{CF807497-3881-46CA-AC18-F52A945EBA3E}"
 EndProject
-Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Cestovanie", "..\Jedlo\Cestovanie\Cestovanie.phpproj", "{939DFE0F-D3ED-4DEB-9F61-3F1410BF4957}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,8 +15,6 @@ Global
 		{CF807497-3881-46CA-AC18-F52A945EBA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF807497-3881-46CA-AC18-F52A945EBA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF807497-3881-46CA-AC18-F52A945EBA3E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{939DFE0F-D3ED-4DEB-9F61-3F1410BF4957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{939DFE0F-D3ED-4DEB-9F61-3F1410BF4957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,17 +6,17 @@
         <h2>Nórsko</h2>
         <p>Je to nádherná krajina kde by som dokázal si prírodu naozaj dlho užívať . Čím viac na sever som šiel tým krajšie a nebezpečejšie zákutia som objavoval.</p>
         
-      </div>
-      <div class="col six">
-          <img src="img/1.1.jpg" alt="sport" class="img-responsive img-circle" />
-      </div>
-    </div>-->
-    <div class="thumbnail wrap">
-        <img src="img/1.1.jpg" alt="sport" class="img-responsive img-circle" />
+      <!--<!--</div>
+      <!--<div >-->
+          <!--<img src="img/1.1.jpg" alt="sport" class="img-responsive img-circle" />-->
+      <!--</div>-->
+    <!--</div>-->-->-->-->
+    <div class="wrap">
+        <img src="img/1.1.jpg" alt="sport" class="img-responsive img-circle"/>
         <div class="caption">
             <h3>Nórsko</h3>
             <p>Je to nádherná krajina kde by som dokázal si prírodu naozaj dlho užívať . Čím viac na sever som šiel tým krajšie a nebezpečejšie zákutia som objavoval.</p>
-            
+
         </div>
     </div>
   </section>
