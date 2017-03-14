@@ -1,30 +1,20 @@
 <?php include 'header.php'; ?>
-
 <section class="bg-blue white">
-    <!--<div class="wrap">
-      <div class="col six">
-        <h2>Nórsko</h2>
-        <p>Je to nádherná krajina kde by som dokázal si prírodu naozaj dlho užívať . Čím viac na sever som šiel tým krajšie a nebezpečejšie zákutia som objavoval.</p>
-        
-      <!--<!--</div>
-      <!--<div >-->
-          <!--<img src="img/1.1.jpg" alt="sport" class="img-responsive img-circle" />-->
-      <!--</div>-->
-    <!--</div>-->-->-->-->
     <div class="wrap">
-        <img src="img/1.1.jpg" alt="sport" class="img-responsive img-circle"/>
-        <div class="caption">
-            <h3>Nórsko</h3>
+        <div class="col six">
+            <h2>NÓRSKO</h2>
             <p>Je to nádherná krajina kde by som dokázal si prírodu naozaj dlho užívať . Čím viac na sever som šiel tým krajšie a nebezpečejšie zákutia som objavoval.</p>
 
         </div>
+        <div class="col six">
+            <img src="img/1.1.jpg" class="img-thumbnail" alt="Responsive image" />
+        </div>
     </div>
-  </section>
-
-  <section class="">
+</section>
+<section class="">
     <div class="wrap">
         <div class="col six">
-            <img src="img/1.2.jpg" alt="sport" style="width:60%;height:60%" />
+            <img src="img/1.2.jpg" class="img-thumbnail" alt="Responsive image" />
         </div>
       <div class="col six">
         <h2>Miesta</h2>
@@ -43,7 +33,7 @@
        
       </div>
       <div class="col six">
-        <img src="img/1.3.jpg" alt="norsko" style="width:55%;height:55%">
+          <img src="img/1.3.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
     </div>
   </section>
@@ -51,7 +41,7 @@
   <section class="">
     <div class="wrap">
       <div class="col six">
-        <img src="img/1.4.jpg" alt="sport" style="width:60%;height:60%">
+          <img src="img/1.4.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
       <div class="col six">
         <h2>Ceny</h2>

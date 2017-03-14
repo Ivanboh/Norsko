@@ -19,7 +19,7 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Conect.php" />
+    <Compile Include="kontakt.php" />
     <Compile Include="feedback.php" />
     <Compile Include="footer.php" />
     <Compile Include="header.php" />

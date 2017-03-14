@@ -21,7 +21,14 @@
         <a href="stranka1.php">NÓRSKO</a>
         <a href="stranka2.php">Príprava</a>
         <a href="stranka3.php">Cesta</a>
-        <a href="feedback.php">formular</a>
+        <a href="feedback.php">Formulár</a>
+          <a href="kontakt.php">Kontakt</a>
+          <form class="navbar-form navbar-right" role="search">
+              <div class="form-group">
+                  <input type="text" class="form-control" placeholder="Napíš text">
+              </div>
+              <button type="submit" class="btn btn-default">Hľadať</button>
+          </form>
       </nav>
     </div>
   </header>

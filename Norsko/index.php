@@ -11,7 +11,7 @@
                     </p>
                 </div>
                 <div class="col six">
-                    <img src="img/4.3.jpg" alt="sport" alt="sport" class="responsive" />
+                    <img src="img/4.3.jpg" class="img-thumbnail" alt="Responsive image" />
                 </div>
             </div>
         </section>
@@ -19,7 +19,7 @@
         <section class="">
             <div class="wrap">
                 <div class="col six">
-                    <img src="img/4.2.jpg" alt="sport" class="responsive" />
+                    <img src="img/4.2.jpg" class="img-thumbnail" alt="Responsive image" />
                 </div>
                 <div class="col six">
                     <h2>Príprava</h2>
@@ -41,7 +41,7 @@
                     </p>
                 </div>
                 <div class="col six">
-                    <img src="img/0.1.jpg" alt="sport" class="responsive" />
+                    <img src="img/0.1.jpg" class="img-thumbnail" alt="Responsive image" />
                 </div>
             </div>
         </section>

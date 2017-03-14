@@ -8,7 +8,7 @@
         
       </div>
       <div class="col six">
-          <img src="img/3.2.jpg" alt="sport" style="width:60%;height:90%" />
+          <img src="img/3.2.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
     </div>
   </section>
@@ -16,7 +16,7 @@
   <section class="">
     <div class="wrap">
       <div class="col six">
-          <img src="img/4.4.jpg" alt="sport" style="width:60%;height:80%" />
+          <img src="img/4.4.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
       <div class="col six">
         <h2>Poznávanie</h2>
@@ -36,7 +36,7 @@
        
       </div>
       <div class="col six">
-          <img src="img/3.1.jpg" alt="sport" style="width:60%;height:90%" />
+          <img src="img/3.1.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
     </div>
   </section>

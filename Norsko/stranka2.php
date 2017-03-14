@@ -10,7 +10,7 @@
         
       </div>
       <div class="col six">
-          <img src="img/2.1.jpg" style="width:40%;height:70%" />
+          <img src="img/2.1.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
     </div>
   </section>
@@ -18,7 +18,7 @@
   <section class="">
     <div class="wrap">
       <div class="col six">
-          <img src="img/2.2.jpg" alt="sport" style="width:60%;height:90%" />
+          <img src="img/2.2.jpg" class="img-thumbnail" alt="Responsive image" />
       </div>
       <div class="col six">
         <h2>Strava</h2>
@@ -40,7 +40,7 @@
         
       </div>
       <div class="col six">
-          <img src="img/2.3.jpg" alt="sport" style="width:40%;height:70%" />
+          <img src="img/2.3.jpg" class="img-thumbnail" alt="Responsive image" />
        
       </div>
     </div>
