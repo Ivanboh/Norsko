@@ -1,7 +1,7 @@
 <?php
 include 'header.php';
 ?>
-<section class="bg-blue white">
+<section class="bg-black white">
     <div class="wrap">
         <p><b>Adresa:</b></b>
         <p>Ivan Boháč<br />Papiernická 21<br />034 01, Ružomberok<br /></p>
