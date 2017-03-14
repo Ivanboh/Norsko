@@ -4,8 +4,7 @@
         <div class="col six">
             <h2>NÓRSKO</h2>
             <p>Je to nádherná krajina kde by som dokázal si prírodu naozaj dlho užívať . Čím viac na sever som šiel tým krajšie a nebezpečejšie zákutia som objavoval.</p>
-
-        </div>
+            </div>
         <div class="col six">
             <img src="img/1.1.jpg" class="img-thumbnail" alt="Responsive image" />
         </div>
@@ -50,6 +49,4 @@
       </div>
     </div>
   </section>
-    
-
-<?php include 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
